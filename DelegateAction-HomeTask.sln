@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateAction-HomeTask", "DelegateAction-HomeTask\DelegateAction-HomeTask.csproj", "{535365AF-6C5C-42B7-8567-FE1730DF43B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{535365AF-6C5C-42B7-8567-FE1730DF43B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{535365AF-6C5C-42B7-8567-FE1730DF43B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{535365AF-6C5C-42B7-8567-FE1730DF43B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{535365AF-6C5C-42B7-8567-FE1730DF43B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BC66284-E56E-4342-BB3B-229CF289F51A}
+	EndGlobalSection
+EndGlobal

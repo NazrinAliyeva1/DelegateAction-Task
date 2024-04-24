@@ -1,0 +1,14 @@
+C:\Users\99455\source\repos\DelegateAction-HomeTask\DelegateAction-HomeTask\obj\Debug\net6.0\DelegateAction-HomeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\source\repos\DelegateAction-HomeTask\DelegateAction-HomeTask\obj\Debug\net6.0\DelegateAction-HomeTask.AssemblyInfoInputs.cache
+C:\Users\99455\source\repos\DelegateAction-HomeTask\DelegateAction-HomeTask\obj\Debug\net6.0\DelegateAction-HomeTask.AssemblyInfo.cs
+C:\Users\99455\source\repos\DelegateAction-HomeTask\DelegateAction-HomeTask\obj\Debug\net6.0\DelegateAction-HomeTask.csproj.CoreCompileInputs.cache
+C:\Users\99455\source\repos\DelegateAction-HomeTask\DelegateAction-HomeTask\bin\Debug\net6.0\DelegateAction-HomeTask.exe
+C:\Users\99455\source\repos\DelegateAction-HomeTask\DelegateAction-HomeTask\bin\Debug\net6.0\DelegateAction-HomeTask.deps.json
+C:\Users\99455\source\repos\DelegateAction-HomeTask\DelegateAction-HomeTask\bin\Debug\net6.0\DelegateAction-HomeTask.runtimeconfig.json
+C:\Users\99455\source\repos\DelegateAction-HomeTask\DelegateAction-HomeTask\bin\Debug\net6.0\DelegateAction-HomeTask.dll
+C:\Users\99455\source\repos\DelegateAction-HomeTask\DelegateAction-HomeTask\bin\Debug\net6.0\DelegateAction-HomeTask.pdb
+C:\Users\99455\source\repos\DelegateAction-HomeTask\DelegateAction-HomeTask\obj\Debug\net6.0\DelegateAction-HomeTask.dll
+C:\Users\99455\source\repos\DelegateAction-HomeTask\DelegateAction-HomeTask\obj\Debug\net6.0\refint\DelegateAction-HomeTask.dll
+C:\Users\99455\source\repos\DelegateAction-HomeTask\DelegateAction-HomeTask\obj\Debug\net6.0\DelegateAction-HomeTask.pdb
+C:\Users\99455\source\repos\DelegateAction-HomeTask\DelegateAction-HomeTask\obj\Debug\net6.0\DelegateAction-HomeTask.genruntimeconfig.cache
+C:\Users\99455\source\repos\DelegateAction-HomeTask\DelegateAction-HomeTask\obj\Debug\net6.0\ref\DelegateAction-HomeTask.dll

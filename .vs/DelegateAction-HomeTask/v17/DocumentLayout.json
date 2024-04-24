@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\99455\\source\\repos\\DelegateAction-HomeTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{535365AF-6C5C-42B7-8567-FE1730DF43B0}|DelegateAction-HomeTask\\DelegateAction-HomeTask.csproj|c:\\users\\99455\\source\\repos\\delegateaction-hometask\\delegateaction-hometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535365AF-6C5C-42B7-8567-FE1730DF43B0}|DelegateAction-HomeTask\\DelegateAction-HomeTask.csproj|solutionrelative:delegateaction-hometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535365AF-6C5C-42B7-8567-FE1730DF43B0}|DelegateAction-HomeTask\\DelegateAction-HomeTask.csproj|C:\\Users\\99455\\source\\repos\\DelegateAction-HomeTask\\delegateaction-hometask\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535365AF-6C5C-42B7-8567-FE1730DF43B0}|DelegateAction-HomeTask\\DelegateAction-HomeTask.csproj|solutionrelative:delegateaction-hometask\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535365AF-6C5C-42B7-8567-FE1730DF43B0}|DelegateAction-HomeTask\\DelegateAction-HomeTask.csproj|C:\\Users\\99455\\source\\repos\\DelegateAction-HomeTask\\delegateaction-hometask\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535365AF-6C5C-42B7-8567-FE1730DF43B0}|DelegateAction-HomeTask\\DelegateAction-HomeTask.csproj|solutionrelative:delegateaction-hometask\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\DelegateAction-HomeTask\\DelegateAction-HomeTask\\Models\\Exam.cs",
+              "RelativeDocumentMoniker": "DelegateAction-HomeTask\\Models\\Exam.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\DelegateAction-HomeTask\\DelegateAction-HomeTask\\Models\\Exam.cs",
+              "RelativeToolTip": "DelegateAction-HomeTask\\Models\\Exam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:25:28.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\DelegateAction-HomeTask\\DelegateAction-HomeTask\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "DelegateAction-HomeTask\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\DelegateAction-HomeTask\\DelegateAction-HomeTask\\Models\\Person.cs",
+              "RelativeToolTip": "DelegateAction-HomeTask\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:03:03.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\DelegateAction-HomeTask\\DelegateAction-HomeTask\\Program.cs",
+              "RelativeDocumentMoniker": "DelegateAction-HomeTask\\Program.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\DelegateAction-HomeTask\\DelegateAction-HomeTask\\Program.cs",
+              "RelativeToolTip": "DelegateAction-HomeTask\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:02:29.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 66,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
